@@ -1,0 +1,17 @@
+.container{
+    max-width: 1080px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divContainer{
+    display: flex;
+    gap: 10px
+}
+
+.divContainer a {
+    font-size: 20px;
+    color: #fff;
+}
